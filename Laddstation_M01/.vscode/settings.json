@@ -3,5 +3,6 @@
     "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
     "files.associations": {
         "*.ino": "cpp"
-    }
+    },
+    "particle.targetDevice": "250024000747363339343638"
 }
