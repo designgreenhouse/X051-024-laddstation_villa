@@ -1,7 +1,7 @@
 /*
  * Project Laddstation_M01
  * Description:
- * Author:
+ * Author: Lars Lindmark
  * Date:
  */
 
