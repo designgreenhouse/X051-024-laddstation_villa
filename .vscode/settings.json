@@ -1,0 +1,6 @@
+{
+    "particle.targetDevice": "250024000747363339343638",
+    "particle.firmwareVersion": "1.0.1",
+    "particle.targetPlatform": "photon",
+    "cortex-debug.openocdPath": "/Users/jido/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd"
+}
