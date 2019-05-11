@@ -49,7 +49,7 @@ volatile int forceReading = 1;
 
 void mqttPublish(char *event, String msg) {
     if (!client.isConnected()) {
-         client.connect("x042_" + String(Time.now()));
+         client.connect("x046_" + String(Time.now()));  // JHJ use project# as prefix
     }
     if (client.isConnected()) {
         client.publish(event, msg);
